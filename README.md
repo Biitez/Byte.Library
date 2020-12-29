@@ -1,10 +1,20 @@
-# ByteLib v1.0.1 | [![Latest release](https://img.shields.io/github/v/release/Biitez/ByteLib?color=purple&style=flat-square)](https://github.com/Biitez/ByteLib/releases)
+# Byte.Library v1.0.2 | [![Latest release](https://github.com/Biitez/ByteLib/releases/tag/Byte.Library)
+
+Library to create checkers in C# with few lines of code!
+
+### Characteristics::
+- Automatic key for saving un-checked & checked lines (S / C)
+- Take large combos quickly ( & proxies )
+- Automatic title change (CPM, Hits, Free, Fails, Retries)
+- Created in .NET Framework
+
+### This library uses Leaf.xNet!
+
+- [Example](https://github.com/Biitez/ByteLib/blob/master/Byte.Library.Example/Program.cs)
+- [Download](https://github.com/Biitez/ByteLib/releases/tag/Byte.Library)
 
 
-## The library currently has some bugs and is still unfinished, it is being rewritten 
+### Contributions:
+- https://t.me/biitez | biitez#1717
 
-
-Library to easily create checkers in C#!
-
-### [Example](https://github.com/Biitez/ByteLib/blob/master/Example/NordVPN.cs)
-### [Download](https://github.com/Biitez/ByteLib/releases/tag/v1.0.1)
+- If you want to improve the project, just pull request :D
