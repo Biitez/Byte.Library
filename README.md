@@ -1,4 +1,4 @@
-# Byte.Library v1.0.2 | [![Latest release](https://github.com/Biitez/ByteLib/releases/tag/Byte.Library)
+# Byte.Library v1.0.2 | [Latest release](https://github.com/Biitez/ByteLib/releases/tag/Byte.Library)
 
 Library to create checkers in C# with few lines of code!
 
