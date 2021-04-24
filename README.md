@@ -2,7 +2,7 @@
 
 Library to create checkers in C# with few lines of code!
 
-### Characteristics::
+### Characteristics:
 - Automatic key for saving un-checked & checked lines (S / C)
 - Take large combos quickly ( & proxies )
 - Automatic title change (CPM, Hits, Free, Fails, Retries)
@@ -15,6 +15,6 @@ Library to create checkers in C# with few lines of code!
 
 
 ### Contributions:
-- https://t.me/biitez | biitez#1717
+- https://t.me/biitez
 
-- If you want to improve the project, just pull request :D
+- If you want to improve the project (I know you wont do it), just pull request
